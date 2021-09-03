@@ -47,11 +47,11 @@ export default {
       },
       {
         text: "mdi-twitter",
-        link: "",
+        link: "https://twitter.com/WeniKeny",
       },
       {
         text: "mdi-linkedin",
-        link: "",
+        link: "https://www.linkedin.com/in/moises-borracha-1359ab168/",
       },
       {
         text: "mdi-instagram",

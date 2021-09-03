@@ -77,12 +77,6 @@
       <v-row align="center" justify="center">
         <v-col cols="10">
           <v-row align="center" justify="space-around">
-            <!-- <v-col cols="12" class="text-center">
-              <h1 class="font-weight-light display-2">Title</h1>
-              <h1 class="font-weight-light">
-                Lorem ipsum dolor sit amet consectetur adipisicing elit.
-              </h1>
-            </v-col> -->
             <v-col
               cols="12"
               sm="4"
@@ -134,7 +128,7 @@ export default {
   data() {
     return {
       dialog: false,
-      videoId: "i8IvvHJssWE",
+      videoId: "G-cnQw8yRi8",
       features: [
         {
           img: require("@/assets/img/icon2.png"),

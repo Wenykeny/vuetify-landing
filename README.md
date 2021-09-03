@@ -55,3 +55,12 @@ Please make sure to update tests as appropriate.
 
 ## 🔑 License
 [MIT](https://github.com/Joabsonlg/vuetify-landing-page/blob/master/LICENSE)
+
+
+echo "# vuetify-landing" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/Wenykeny/vuetify-landing.git
+git push -u origin main

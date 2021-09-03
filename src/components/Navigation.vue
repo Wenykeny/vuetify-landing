@@ -10,11 +10,11 @@
       <v-list>
         <v-list-item>
           <v-list-item-avatar>
-            <img src="@/assets/img/logo.png" alt="Logo" />
+            <img src="@/assets/img/blackbeard.jpg" alt="Logo" />
           </v-list-item-avatar>
           <v-list-item-content>
-            <v-list-item-title class="title">Calango</v-list-item-title>
-            <v-list-item-subtitle>WEB</v-list-item-subtitle>
+            <v-list-item-title class="title">BlackBeard</v-list-item-title>
+            <v-list-item-subtitle>Developer</v-list-item-subtitle>
           </v-list-item-content>
         </v-list-item>
       </v-list>
